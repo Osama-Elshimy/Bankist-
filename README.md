@@ -6,9 +6,9 @@ The project is a simulation for a bank application so it has pre-created account
 
 **you can fake login with one of these two accounts**
 
-user `js` and PIN `1111`
+user `oe` and PIN `1111`
 
-user `jd` and PIN `2222`
+user `ek` and PIN `2222`
 
 
 ## The functionalities in the app 
@@ -24,6 +24,8 @@ Bank transactions
 - requeat a loan from the bank 
 - delete your account 
 
+# [Live Demo](https://bankist-project-osama-elshimy.netlify.app/) 
+
 ### DEMO 
 
 ![screen shot](bankist.png)
@@ -31,5 +33,5 @@ Bank transactions
 
 ![screen shot](bankist-login.png)
 
-# [Live Demo](https://abdelrhman-ahmed-kamal.github.io/banksit/) 
+
 
