@@ -8,7 +8,7 @@ The project is a simulation for a bank application so it has pre-created account
 
 user `oe` and PIN `1111`
 
-user `ek` and PIN `2222`
+user `im` and PIN `2222`
 
 
 ## The functionalities in the app 
@@ -30,8 +30,7 @@ Bank transactions
 
 ![screen shot](bankist.png)
 
+![Screenshot from 2022-11-07 06-49-40](https://user-images.githubusercontent.com/90342783/200229055-29af3f5d-14e3-4588-a974-63b08f428443.png)
 
-![screen shot](bankist-login.png)
-
-
+![Screenshot from 2022-11-07 06-49-51](https://user-images.githubusercontent.com/90342783/200228985-6e403f95-543f-4b23-b08b-a354d059e00b.png)
 
