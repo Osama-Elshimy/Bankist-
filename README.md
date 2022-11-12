@@ -24,7 +24,7 @@ Bank transactions
 - requeat a loan from the bank 
 - delete your account 
 
-# [Live Demo](https://bankist-project-osama-elshimy.netlify.app/) 
+# [Live Demo](https://bankist-osama-elshimy.netlify.app/) 
 
 ### DEMO 
 
