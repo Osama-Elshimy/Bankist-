@@ -28,7 +28,7 @@ Bank transactions
 
 ### DEMO 
 
-![screen shot](bankist.png)
+![screen shot](/public/bankist.png)
 
 ![Screenshot from 2022-11-07 06-49-40](https://user-images.githubusercontent.com/90342783/200229055-29af3f5d-14e3-4588-a974-63b08f428443.png)
 
