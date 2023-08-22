@@ -339,6 +339,7 @@ btnTransfer.addEventListener('click', function (e) {
 	e.preventDefault();
 
 	// Get recipient user
+	// @ts-ignore
 	const receiverAcc = accounts.find(
 		acc => acc.username === inputTransferTo.value.trim().toLowerCase()
 	);
@@ -441,6 +442,7 @@ btnClose.addEventListener('click', function (e) {
 		+inputClosePin.value === currentAccount.pin
 	) {
 		// Get current account index
+		// @ts-ignore
 		const deletedAccountIndex = accounts.findIndex(
 			acc => acc.username === currentAccount.username
 		);
